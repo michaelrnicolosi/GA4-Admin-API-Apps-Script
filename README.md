@@ -1,1 +1,1 @@
-# GA4-Admin-API-Apps-Script
+# GA4 Admin API with Google Apps Script
